@@ -5,7 +5,7 @@ On utilise le Makefile :
 	make
 	
 Après avoir compiler le code, on l'execute : 
-	./TP1ex2
+	./TP2ex2
 	
 -Pour générer le doxygen, on execute depuis le répertoire contenant le Doxyfile : doxygen Doxyfile.
 
